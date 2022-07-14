@@ -87,7 +87,7 @@ yarn lint
 The following error should be printed
 
 ```
-import-order/index.js
+index.js
   4:1  error  There should be no empty line within import group  import/order
 ```
 

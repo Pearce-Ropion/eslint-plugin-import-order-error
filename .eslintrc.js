@@ -1,9 +1,9 @@
 /* === Change These Values === */
 
-const USE_MULTIPLE_NAMESPACE_GROUPS = false;
-
 // Try using 8, 9, 10 or 11
 const INTERNAL_IMPORT_GROUPS = 9;
+
+const USE_MULTIPLE_NAMESPACE_GROUPS = false;
 
 /* =========================== */
 
